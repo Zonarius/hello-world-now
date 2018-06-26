@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zonarius/hello-world-now.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zonarius/hello-world-now/issues"
+  },
+  "homepage": "https://github.com/Zonarius/hello-world-now#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
